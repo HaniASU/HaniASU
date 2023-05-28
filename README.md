@@ -1,5 +1,5 @@
 <h1 align="left">Hi There 👋, I'm Hani Mohamed Sayed Ahmed</h1>
-<img align="right" src="https://github.com/HaniASU/HaniASU/blob/main/programming-computer-frog.gif" width="400" height="400"/>
+<img align="right" src="https://github.com/HaniASU/HaniASU/blob/main/programming-computer-frog.gif" width="300" height="300"/>
 <h3 align="left">I am studying at the Faculty of Computers and Information, Ain Shams University</h3>
 
 <h3 align="left">Connect with me:</h3>
